@@ -33,3 +33,19 @@
     overflow: hidden;
 
 }
+.h1 {
+    text-align: center;
+  }
+
+.h2 {
+    text-align: center;
+  }
+
+.p {
+    text-align: center;
+  }
+
+  .navbar-brand {
+    text-align: center;
+  }
+  
